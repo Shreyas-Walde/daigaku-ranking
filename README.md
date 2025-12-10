@@ -7,7 +7,7 @@
   
   A comprehensive, interactive ranking system for Japanese universities with detailed academic hierarchy visualization.
 
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy)
+  [![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Shreyas-Walde/daigaku-ranking)
 </div>
 
 ---
@@ -125,7 +125,7 @@
 
 4. **Open your browser**
    ```
-   http://localhost:3000
+   http://localhost:5173
    ```
 
 ### Build for Production
@@ -147,15 +147,11 @@ npm run preview
 
 ## 🌐 Deployment
 
-### Deploy to Netlify (Recommended)
-1. Connect your GitHub repository
-2. Build settings are auto-configured via `netlify.toml`
-3. Your site will be live at `https://your-site-name.netlify.app`
-
-### Deploy to Vercel (Recommended) 
-1. Connect your GitHub repository
-2. Build 
-3. Your site will be live
+### Deploy to Vercel (Recommended)
+1. Click the deploy button above or visit [Vercel](https://vercel.com)
+2. Connect your GitHub repository
+3. Vercel automatically detects Vite configuration
+4. Your site will be live at `https://your-project-name.vercel.app`
 
 ### Manual Deploy
 ```bash
