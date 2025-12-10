@@ -152,6 +152,11 @@ npm run preview
 2. Build settings are auto-configured via `netlify.toml`
 3. Your site will be live at `https://your-site-name.netlify.app`
 
+### Deploy to Vercel (Recommended) 
+1. Connect your GitHub repository
+2. Build 
+3. Your site will be live
+
 ### Manual Deploy
 ```bash
 npm run build
