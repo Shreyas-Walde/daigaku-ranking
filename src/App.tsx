@@ -63,8 +63,11 @@ const Footer: React.FC = () => {
                     <a href="#" className="hover:text-white transition-colors">Contact</a>
                 </div>
             </div>
-            <div className="text-center text-gray-500 text-xs mt-8">
-                © 2024 Japanese Academic Credentials Ranking.
+            <div className="text-center text-gray-500 text-xs mt-8 space-y-2">
+                <p>
+                    Original reference: <a href="https://gakurekirank.com/gakurekiranking/" target="_blank" rel="noopener noreferrer" className="text-indigo-400 hover:text-indigo-300 underline transition-colors">学歴ランキング (Gakureki Ranking)</a>
+                </p>
+                <p>© 2024 Japanese Academic Credentials Ranking.</p>
             </div>
         </footer>
     );
