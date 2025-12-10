@@ -193,12 +193,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-Created with ❤️ by [Haruto Yagami](https://github.com/haruto-yagami)
+Created with ❤️ by [Shreyas Walde](https://github.com/Shreyas-Walde)
 
 ---
 
 <div align="center">
   <strong>⭐ If you found this useful, please give it a star! ⭐</strong>
   
-  [View Live Site](#) | [Report Bug](https://github.com/haruto-yagami/new-ranking/issues) | [Request Feature](https://github.com/haruto-yagami/new-ranking/issues)
+  [View Live Site](#) | [Report Bug](https://github.com/Shreyas-Walde/daigaku-ranking/issues) | [Request Feature](https://github.com/Shreyas-Walde/daigaku-ranking/issues)
 </div>
